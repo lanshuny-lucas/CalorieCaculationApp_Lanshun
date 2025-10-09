@@ -1,13 +1,5 @@
 # Smart Bite
 
-## Team Members
-- Zicheng Liu (AndrewID: zichengl)
-- Lanshun Yuan (AndrewID: lanshuny)
-- Yipeng Sun (AndrewID: yipengs)
-- Anastasia Harouse (AndrewID: aharouse)
-
----
-
 A small Streamlit app that searches real recipes on the web, estimates **nutrition** and **cost**, then shows per-serving stats with an ingredient breakdown.
 
 - **Recipes**: scraped from Allrecipes search results.  
